@@ -1,7 +1,6 @@
 ## Olá! Eu sou o Edu Nunes
 
-- 🔭 I’m currently working on ...
-- 🌱 Estudando: NodeJS, React, TypeScript
+- 🔭 Tenho experiência com React, Next, TypeScript, Node, TailwindCSS, Storybook, Vite, MaterialUI (e outras bibliotecas).
 - 😄 Pronomes: Ele/Dele
 - ⚡ Fato divertido: Comecei a estudar programação com o Portugol Studio e já fiz algums jogos de tabuleiro
 
